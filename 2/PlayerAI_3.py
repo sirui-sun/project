@@ -11,31 +11,17 @@ class PlayerAI(BaseAI):
 	def isTerminalState(self, grid):
 		return len(grid.getAvailableMoves()) == 0 
 
-
-	def getSumSize(self, grid):
-		sumTile = 0
-
-		for x in range(grid.size):
-			for y in range(grid.size):
-				sumTile += grid.map[x][y]
-
-		return sumTile
-
 	def generateHeuristic(self, grid):
-		return (None, self.getSumSize(grid))
+		return (None, len(grid.getAvailableCells()))
 
 	# maximize - try and get to 2048 by moving up, left, down, right
 	# returns: (move, utility)
 	def maximize(self, grid, alpha, beta, depth):
-		if self.isTerminalState(grid):
-			return (None, grid.getMaxTile())
-
-		if (depth == 3):
+		if self.isTerminalState(grid) or depth == 3:
 			return self.generateHeuristic(grid)
 
 		(maxMove, maxUtility) = (None, NEG_INF)
 
-		# 
 		for move in grid.getAvailableMoves():
 			newGrid = grid.clone()
 			newGrid.move(move)
@@ -55,11 +41,8 @@ class PlayerAI(BaseAI):
 	# minimize - try to minimize board score by placing new tiles
 	# returns: (move, utility)
 	def minimize(self, grid, alpha, beta, depth):
-		if self.isTerminalState(grid):
-			return (None, grid.getMaxTile()) 
 
-		# basic heuristic: what's the largest tile?
-		if (depth == 3):
+		if self.isTerminalState(grid) or depth == 3:
 			return self.generateHeuristic(grid)
 
 		(minMove, minUtility) = (None, POS_INF)
