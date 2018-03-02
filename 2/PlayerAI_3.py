@@ -5,7 +5,7 @@ import time
 NEG_INF = float("-inf")
 POS_INF = float("inf")
 SPAWNED_TILES_VALUES = [2,4]
-TIME_BUFFER = 0.05 # number of seconds remaining at which we end the depth-first traversal
+TIME_BUFFER = 0.08 # number of seconds remaining at which we end the depth-first traversal
 
 class PlayerAI(BaseAI):
 	nodes_expanded = 0 
@@ -21,6 +21,10 @@ class PlayerAI(BaseAI):
 		return time_remaining < TIME_BUFFER
 
 	def generateHeuristic(self, grid):
+
+		# TO DO: monotonicity
+		# TO DO: smoothness 
+
 		return (None, len(grid.getAvailableCells()))
 
 	# maximize - try and get to 2048 by moving up, left, down, right
@@ -79,8 +83,8 @@ class PlayerAI(BaseAI):
 	def getMove(self, grid):
 		time_start = time.clock()
 		(move, utility) = self.maximize(grid, NEG_INF, POS_INF, 0, time_start)
-		time_elapsed = time.clock() - time_start
-		print("nodes expanded: " + self.nodes_expanded)
+		#print("Nodes expanded: " + str(self.nodes_expanded))
+		#self.nodes_expanded = 0 
 		return move
 
 		# moves = grid.getAvailableMoves()
