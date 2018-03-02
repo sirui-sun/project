@@ -17,7 +17,7 @@ class PlayerAI(BaseAI):
 	# maximize - try and get to 2048 by moving up, left, down, right
 	# returns: (move, utility)
 	def maximize(self, grid, alpha, beta, depth):
-		if self.isTerminalState(grid) or depth == 3:
+		if self.isTerminalState(grid) or depth == 4:
 			return self.generateHeuristic(grid)
 
 		(maxMove, maxUtility) = (None, NEG_INF)
@@ -42,7 +42,7 @@ class PlayerAI(BaseAI):
 	# returns: (move, utility)
 	def minimize(self, grid, alpha, beta, depth):
 
-		if self.isTerminalState(grid) or depth == 3:
+		if self.isTerminalState(grid) or depth == 4:
 			return self.generateHeuristic(grid)
 
 		(minMove, minUtility) = (None, POS_INF)
