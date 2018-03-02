@@ -3,7 +3,7 @@ from ComputerAI_3 import ComputerAI
 from PlayerAI_3   import PlayerAI
 from Displayer_3  import Displayer
 from random       import randint
-import time
+import time, sys
 
 defaultInitialTiles = 2
 defaultProbability = 0.9
@@ -43,6 +43,9 @@ class GameManager:
 
     def updateAlarm(self, currTime):
         if currTime - self.prevTime > timeLimit + allowance:
+            print("ERROR: OVER TIME LIMIT")
+            print("TOOK: " + str(currTime - self.prevTime))
+            print("ALLOWED: " + str(timeLimit + allowance))
             self.over = True
         else:
             while time.clock() - self.prevTime < timeLimit + allowance:
@@ -50,11 +53,12 @@ class GameManager:
 
             self.prevTime = time.clock()
 
-    def start(self):
+    def start(self, silent_mode):
         for i in range(self.initTiles):
             self.insertRandonTile()
 
-        self.displayer.display(self.grid)
+        if not silent_mode:
+            self.displayer.display(self.grid)
 
         # Player AI Goes First
         turn = PLAYER_TURN
@@ -69,9 +73,11 @@ class GameManager:
             move = None
 
             if turn == PLAYER_TURN:
-                print("Player's Turn:", end="")
+                if not silent_mode:
+                    print("Player's Turn:", end="")
                 move = self.playerAI.getMove(gridCopy)
-                print(actionDic[move])
+                if not silent_mode:
+                    print(actionDic[move])
 
                 # Validate Move
                 if move != None and move >= 0 and move < 4:
@@ -87,7 +93,8 @@ class GameManager:
                     print("Invalid PlayerAI Move - 1")
                     self.over = True
             else:
-                print("Computer's turn:")
+                if not silent_mode:
+                    print("Computer's turn:")
                 move = self.computerAI.getMove(gridCopy)
 
                 # Validate Move
@@ -98,7 +105,8 @@ class GameManager:
                     self.over = True
 
             if not self.over:
-                self.displayer.display(self.grid)
+                if not silent_mode:
+                    self.displayer.display(self.grid)
 
             # Exceeding the Time Allotted for Any Turn Terminates the Game
             self.updateAlarm(time.clock())
@@ -131,7 +139,8 @@ def main():
     gameManager.setPlayerAI(playerAI)
     gameManager.setComputerAI(computerAI)
 
-    gameManager.start()
+    silent_mode = True if len(sys.argv) > 1 else False
+    gameManager.start(silent_mode)
 
 if __name__ == '__main__':
     main()

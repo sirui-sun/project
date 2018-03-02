@@ -1,40 +1,89 @@
 from random import randint
 from BaseAI_3 import BaseAI
 
+NEG_INF = float("-inf")
+POS_INF = float("inf")
+SPAWNED_TILES_VALUES = [2,4]
+
 class PlayerAI(BaseAI):
 
-	# returns: (state, utility)
-	def maximize(grid):
-		if TERMINAL_TEST(grid):
-			return <None, EVAL(state)>
-
-		<maxChild, maxUtility = <NULL, -infinity>
-
-		for child in state.children():
-			<_, utility> = MINIMIZE(child)
-
-			if (utility > maxUtility):
-				<maxChild, maxUtility> = <child, utility>
-
-		return <maxChild, maxUtility>
-
-	def minimize(grid):
-		if TERMINAL_TEST(grid):
-			return (None, EVAL(state))
-
-		<minChild, minUtility = <NULL, infinity>
-
-		for child in state.children():
-			<_, utility> = MAXIMIZE(child)
-
-			if (utility < minUtility):
-				<minChild, minUtility> = <child, utility>
-
-		return <minChild, minUtility>
+	# is this grid a terminal state?
+	def isTerminalState(self, grid):
+		return len(grid.getAvailableMoves()) == 0 
 
 
+	def getSumSize(self, grid):
+		sumTile = 0
+
+		for x in range(grid.size):
+			for y in range(grid.size):
+				sumTile += grid.map[x][y]
+
+		return sumTile
+
+	def generateHeuristic(self, grid):
+		return (None, self.getSumSize(grid))
+
+	# maximize - try and get to 2048 by moving up, left, down, right
+	# returns: (move, utility)
+	def maximize(self, grid, alpha, beta, depth):
+		if self.isTerminalState(grid):
+			return (None, grid.getMaxTile())
+
+		if (depth == 3):
+			return self.generateHeuristic(grid)
+
+		(maxMove, maxUtility) = (None, NEG_INF)
+
+		# 
+		for move in grid.getAvailableMoves():
+			newGrid = grid.clone()
+			newGrid.move(move)
+			(_, currentUtility) = self.minimize(newGrid, alpha, beta, depth+1)
+
+			if (currentUtility > maxUtility):
+				(maxMove, maxUtility) = (move, currentUtility)
+
+			if (maxUtility >= beta):
+				break
+
+			if (maxUtility > alpha):
+				alpha = maxUtility
+
+		return (maxMove, maxUtility)
+
+	# minimize - try to minimize board score by placing new tiles
+	# returns: (move, utility)
+	def minimize(self, grid, alpha, beta, depth):
+		if self.isTerminalState(grid):
+			return (None, grid.getMaxTile()) 
+
+		# basic heuristic: what's the largest tile?
+		if (depth == 3):
+			return self.generateHeuristic(grid)
+
+		(minMove, minUtility) = (None, POS_INF)
+
+		for cell in grid.getAvailableCells():
+			for value in SPAWNED_TILES_VALUES:
+				newGrid = grid.clone()
+				newGrid.insertTile(cell, value)
+				(_, currentUtility) = self.maximize(newGrid, alpha, beta, depth+1)
+
+				if (currentUtility < minUtility):
+					minUtility = currentUtility
+
+				if (minUtility <= alpha):
+					break
+
+				if (minUtility < beta):
+					beta = minUtility
+
+		return (None, minUtility)
+	
 	def getMove(self, grid):
-		moves = grid.getAvailableMoves()
+		(move, utility) = self.maximize(grid, NEG_INF, POS_INF, 0)
+		return move
 
-		# Moves: UP, DOWN, LEFT, RIGHT
-		return moves[randint(0, len(moves) - 1)] if moves else None
+		# moves = grid.getAvailableMoves()
+		# return moves[randint(0, len(moves) - 1)] if moves else None

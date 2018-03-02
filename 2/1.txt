@@ -1,0 +1,19018 @@
+     0       0       0       2  
+     2       0       0       0  
+     0       0       0       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       0       0       2  
+     0       0       0       0  
+     0       0       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       0       0       2  
+     0       0       0       0  
+     0       0       0       0  
+     2       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       0       0       2  
+     0       0       0       0  
+     0       0       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     4       0       0       2  
+     0       0       0       0  
+     0       0       0       4  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       0       0       2  
+     0       0       0       4  
+     0       0       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     4       0       2       2  
+     0       0       0       4  
+     0       0       0       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       0       0       0  
+     0       0       0       0  
+     0       0       0       2  
+     4       0       2       4  
+
+Computer's turn:
+     2       0       0       0  
+     0       0       0       0  
+     0       0       0       2  
+     4       0       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       0       2       2  
+     4       0       0       4  
+     0       0       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       0       2       2  
+     4       0       4       4  
+     0       0       0       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       0       0       0  
+     0       0       0       0  
+     2       0       2       2  
+     4       0       4       4  
+
+Computer's turn:
+     0       0       0       2  
+     0       0       0       0  
+     2       0       2       2  
+     4       0       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       0       2       4  
+     4       0       4       4  
+     0       0       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       0       2       4  
+     4       0       4       4  
+     0       0       0       0  
+     0       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       0       2       8  
+     4       0       4       0  
+     0       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       0       2       8  
+     4       0       4       0  
+     0       2       2       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       2       2       8  
+     4       0       4       0  
+     0       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       2       2       8  
+     4       2       4       0  
+     0       0       2       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       0       4       0  
+     0       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       0       4       0  
+     0       0       2       4  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       0       4       4  
+     0       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       0       4       4  
+     0       0       2       0  
+     0       0       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       0       4       4  
+     0       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       0       4       4  
+     0       0       2       2  
+     0       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       2       4       4  
+     0       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       2       4       4  
+     0       0       2       2  
+     0       0       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       2       4       4  
+     0       0       2       4  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       2       4       4  
+     0       0       2       4  
+     2       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2       8  
+     4       2       4       8  
+     2       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2       8  
+     4       2       4       8  
+     2       0       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2      16  
+     4       2       4       2  
+     2       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2      16  
+     4       2       4       2  
+     2       0       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2      16  
+     4       2       4       4  
+     2       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2      16  
+     4       2       4       4  
+     2       2       2       0  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       4       2      16  
+     4       4       4       4  
+     2       0       2       0  
+     0       0       0       0  
+
+Computer's turn:
+     2       4       2      16  
+     4       4       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       8       2      16  
+     4       0       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       8       2      16  
+     4       0       4       4  
+     2       2       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       8       2      16  
+     4       2       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       8       2      16  
+     4       2       4       4  
+     2       0       2       2  
+     0       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       8       2      16  
+     4       4       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       8       2      16  
+     4       4       4       4  
+     2       4       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       8       2      16  
+     4       8       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2       8       2      16  
+     4       8       4       4  
+     2       2       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     4       2       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     4       2       4       4  
+     2       2       2       2  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     4       4       4       4  
+     2       0       2       2  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     4       4       4       4  
+     2       0       2       2  
+     0       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     4       4       4       4  
+     2       0       4       2  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     4       4       4       4  
+     2       0       4       2  
+     0       0       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     4       4       8       4  
+     2       0       4       2  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     4       4       8       4  
+     2       0       4       2  
+     2       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     4       4       8       4  
+     4       0       4       2  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     4       4       8       4  
+     4       0       4       2  
+     0       0       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     8       4       8       4  
+     0       0       4       4  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     8       4       8       4  
+     2       0       4       4  
+     0       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2      16       2      16  
+     8       4       8       8  
+     2       0       4       0  
+     0       0       0       0  
+
+Computer's turn:
+     2      16       2      16  
+     8       4       8       8  
+     2       0       4       0  
+     0       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       0       2       0  
+     2       0       8       0  
+     8      16       4      16  
+     2       4       2       8  
+
+Computer's turn:
+     0       2       2       0  
+     2       0       8       0  
+     8      16       4      16  
+     2       4       2       8  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       2       2      16  
+     8      16       8       8  
+     2       4       4       0  
+     0       0       2       0  
+
+Computer's turn:
+     2       2       2      16  
+     8      16       8       8  
+     2       4       4       0  
+     0       0       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       2       2      16  
+     8      16       8       8  
+     2       4       4       2  
+     0       0       2       0  
+
+Computer's turn:
+     2       2       2      16  
+     8      16       8       8  
+     2       4       4       2  
+     2       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       2       2      16  
+     8      16       8       8  
+     4       4       4       2  
+     0       0       2       0  
+
+Computer's turn:
+     2       2       2      16  
+     8      16       8       8  
+     4       4       4       2  
+     0       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     2       2       2      16  
+     8      16       8       8  
+     4       8       4       2  
+     0       0       2       0  
+
+Computer's turn:
+     2       2       2      16  
+     8      16       8       8  
+     4       8       4       2  
+     0       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       2       2       0  
+     2      16       8      16  
+     8       8       4       8  
+     4       2       2       2  
+
+Computer's turn:
+     2       2       2       0  
+     2      16       8      16  
+     8       8       4       8  
+     4       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       2       2      16  
+     8      16       8       8  
+     4       8       4       2  
+     0       2       2       0  
+
+Computer's turn:
+     4       2       2      16  
+     8      16       8       8  
+     4       8       4       2  
+     2       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     4       2       2       0  
+     8      16       8      16  
+     4       8       4       8  
+     2       2       2       2  
+
+Computer's turn:
+     4       2       2       2  
+     8      16       8      16  
+     4       8       4       8  
+     2       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+     4       4       2       0  
+     8      16       8      16  
+     4       8       4       8  
+     4       4       0       0  
+
+Computer's turn:
+     4       4       2       0  
+     8      16       8      16  
+     4       8       4       8  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       4       2      16  
+     8      16       8       8  
+     8       8       4       0  
+     0       4       2       0  
+
+Computer's turn:
+     4       4       2      16  
+     8      16       8       8  
+     8       8       4       0  
+     2       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       4       2      16  
+    16      16       8       8  
+     2       8       4       0  
+     0       4       2       0  
+
+Computer's turn:
+     4       4       2      16  
+    16      16       8       8  
+     2       8       4       2  
+     0       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       4       2       0  
+     4      16       8      16  
+    16       8       4       8  
+     2       4       2       2  
+
+Computer's turn:
+     0       4       2       2  
+     4      16       8      16  
+    16       8       4       8  
+     2       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       4       2       2  
+    16      16       8      16  
+     2       8       4       8  
+     0       4       2       2  
+
+Computer's turn:
+     4       4       2       2  
+    16      16       8      16  
+     2       8       4       8  
+     2       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     4       4       2       2  
+    16      16       8      16  
+     4       8       4       8  
+     0       4       2       2  
+
+Computer's turn:
+     4       4       2       2  
+    16      16       8      16  
+     4       8       4       8  
+     2       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+     8       4       0       0  
+    32       8      16       0  
+     4       8       4       8  
+     2       4       4       0  
+
+Computer's turn:
+     8       4       2       0  
+    32       8      16       0  
+     4       8       4       8  
+     2       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       2       8  
+    32      16      16       0  
+     4       4       8       0  
+     2       0       0       0  
+
+Computer's turn:
+     8       4       2       8  
+    32      16      16       0  
+     4       4       8       2  
+     2       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       2       8  
+    32      16      16       2  
+     4       4       8       0  
+     2       0       0       0  
+
+Computer's turn:
+     8       4       2       8  
+    32      16      16       2  
+     4       4       8       0  
+     2       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       4       0       0  
+    32      16       2       0  
+     4       4      16       8  
+     2       2       8       2  
+
+Computer's turn:
+     8       4       0       2  
+    32      16       2       0  
+     4       4      16       8  
+     2       2       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       2       2  
+    32      16      16       8  
+     4       4       8       2  
+     2       2       0       0  
+
+Computer's turn:
+     8       4       2       2  
+    32      16      16       8  
+     4       4       8       2  
+     2       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       4       2       0  
+    32      16      16       2  
+     4       4       8       8  
+     2       2       4       2  
+
+Computer's turn:
+     8       4       2       4  
+    32      16      16       2  
+     4       4       8       8  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+     8       4       2       4  
+    32      32       2       0  
+     8      16       0       0  
+     4       4       2       0  
+
+Computer's turn:
+     8       4       2       4  
+    32      32       2       0  
+     8      16       0       4  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       4       8  
+    32      32       2       0  
+     8      16       0       0  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       4       8  
+    32      32       2       0  
+     8      16       0       0  
+     4       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       4       8  
+    32      32       2       2  
+     8      16       0       0  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       4       8  
+    32      32       2       2  
+     8      16       2       0  
+     4       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       4       8  
+    32      32       4       2  
+     8      16       0       0  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       4       8  
+    32      32       4       2  
+     8      16       0       0  
+     4       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       8       8  
+    32      32       0       4  
+     8      16       0       0  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       8       8  
+    32      32       0       4  
+     8      16       0       2  
+     4       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       4       0       0  
+    32      32       0       8  
+     8      16       0       4  
+     4       4       8       2  
+
+Computer's turn:
+     8       4       0       0  
+    32      32       2       8  
+     8      16       0       4  
+     4       4       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       2       8  
+    32      32       8       4  
+     8      16       0       2  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       2       8  
+    32      32       8       4  
+     8      16       2       2  
+     4       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       4       0       0  
+    32      32       2       8  
+     8      16       8       4  
+     4       4       2       2  
+
+Computer's turn:
+     8       4       2       0  
+    32      32       2       8  
+     8      16       8       4  
+     4       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       4       8  
+    32      32       8       4  
+     8      16       2       2  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       4       8  
+    32      32       8       4  
+     8      16       2       2  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       4       4       8  
+    32      32       8       4  
+     8      16       4       2  
+     4       4       0       0  
+
+Computer's turn:
+     8       4       4       8  
+    32      32       8       4  
+     8      16       4       2  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       4       4       0  
+    32      32       8       8  
+     8      16       4       4  
+     4       4       2       2  
+
+Computer's turn:
+     8       4       4       2  
+    32      32       8       8  
+     8      16       4       4  
+     4       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+     8       8       2       0  
+    64      16       0       0  
+     8      16       8       0  
+     8       4       0       0  
+
+Computer's turn:
+     8       8       2       0  
+    64      16       0       0  
+     8      16       8       2  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       2       2  
+    64      32       8       0  
+    16       4       0       0  
+     0       0       0       0  
+
+Computer's turn:
+     8       8       2       2  
+    64      32       8       0  
+    16       4       0       0  
+     0       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       8       0       0  
+     8      32       0       0  
+    64       4       2       0  
+    16       2       8       2  
+
+Computer's turn:
+     0       8       0       0  
+     8      32       2       0  
+    64       4       2       0  
+    16       2       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       0  
+    16       4       0       0  
+     0       2       0       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       0  
+    16       4       0       0  
+     0       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       0  
+    16       4       2       0  
+     0       2       0       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       0  
+    16       4       2       0  
+     0       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     0       8       4       0  
+     8      32       8       0  
+    64       4       2       0  
+    16       2       4       2  
+
+Computer's turn:
+     0       8       4       0  
+     8      32       8       2  
+    64       4       2       0  
+    16       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       4  
+    64      32       8       0  
+    16       4       2       0  
+     0       2       4       0  
+
+Computer's turn:
+     8       8       4       4  
+    64      32       8       0  
+    16       4       2       0  
+     0       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       4  
+    64      32       8       2  
+    16       4       2       0  
+     0       2       4       0  
+
+Computer's turn:
+     8       8       4       4  
+    64      32       8       2  
+    16       4       2       0  
+     2       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+     8       8       4       0  
+    64      32       8       0  
+    16       4       2       4  
+     2       2       4       2  
+
+Computer's turn:
+     8       8       4       0  
+    64      32       8       2  
+    16       4       2       4  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       4  
+    16       4       2       2  
+     2       2       4       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       4  
+    16       4       2       2  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       4  
+    16       4       2       4  
+     2       2       4       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       4  
+    16       4       2       4  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       8  
+    16       4       2       2  
+     2       2       4       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       8  
+    16       4       2       2  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+     8       8       4       2  
+    64      32       8       8  
+    16       4       2       4  
+     2       2       4       0  
+
+Computer's turn:
+     8       8       4       2  
+    64      32       8       8  
+    16       4       2       4  
+     2       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       4       2       0  
+    64      32      16       0  
+    16       4       2       4  
+     4       4       2       0  
+
+Computer's turn:
+    16       4       2       0  
+    64      32      16       2  
+    16       4       2       4  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       2       2  
+    64      32      16       4  
+    16       8       4       0  
+     4       0       0       0  
+
+Computer's turn:
+    16       4       2       2  
+    64      32      16       4  
+    16       8       4       0  
+     4       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       0       2       0  
+    64       4      16       0  
+    16      32       4       2  
+     4       8       2       4  
+
+Computer's turn:
+    16       0       2       0  
+    64       4      16       2  
+    16      32       4       2  
+     4       8       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       2       4  
+    64      32      16       4  
+    16       8       4       0  
+     4       0       2       0  
+
+Computer's turn:
+    16       4       2       4  
+    64      32      16       4  
+    16       8       4       0  
+     4       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       2       8  
+    64      32      16       0  
+    16       8       4       0  
+     4       2       2       0  
+
+Computer's turn:
+    16       4       2       8  
+    64      32      16       0  
+    16       8       4       0  
+     4       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       2       8  
+    64      32      16       2  
+    16       8       4       0  
+     4       2       2       0  
+
+Computer's turn:
+    16       4       2       8  
+    64      32      16       2  
+    16       8       4       2  
+     4       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       2       8  
+    64      32      16       4  
+    16       8       4       0  
+     4       2       2       0  
+
+Computer's turn:
+    16       4       2       8  
+    64      32      16       4  
+    16       8       4       2  
+     4       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       4       2       0  
+    64      32      16       8  
+    16       8       4       4  
+     4       2       2       2  
+
+Computer's turn:
+    16       4       2       2  
+    64      32      16       8  
+    16       8       4       4  
+     4       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       4       4       0  
+    64      32      16       8  
+    16       8       8       0  
+     4       4       2       0  
+
+Computer's turn:
+    16       4       4       2  
+    64      32      16       8  
+    16       8       8       0  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       4       4       0  
+    64      32      16       0  
+    16       8       8       2  
+     4       4       2       8  
+
+Computer's turn:
+    16       4       4       0  
+    64      32      16       2  
+    16       8       8       2  
+     4       4       2       8  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       4       4       4  
+    64      32      16       8  
+    16       8       8       0  
+     4       4       2       0  
+
+Computer's turn:
+    16       4       4       4  
+    64      32      16       8  
+    16       8       8       2  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       4       4       0  
+    64      32      16       4  
+    16       8       8       8  
+     4       4       2       2  
+
+Computer's turn:
+    16       4       4       2  
+    64      32      16       4  
+    16       8       8       8  
+     4       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       8       2       0  
+    64      32      16       4  
+    16      16       8       0  
+     8       4       0       0  
+
+Computer's turn:
+    16       8       2       0  
+    64      32      16       4  
+    16      16       8       0  
+     8       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       2       4  
+    64      32      16       2  
+    16      16       8       0  
+     8       4       0       0  
+
+Computer's turn:
+    16       8       2       4  
+    64      32      16       2  
+    16      16       8       0  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       8       2       0  
+    64      32      16       0  
+    16      16       8       4  
+     8       4       2       2  
+
+Computer's turn:
+    16       8       2       0  
+    64      32      16       2  
+    16      16       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       2       2  
+    64      32      16       4  
+    16      16       8       2  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       2       2  
+    64      32      16       4  
+    16      16       8       2  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       2       2  
+    64      32      16       4  
+    16      16       8       4  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       2       2  
+    64      32      16       4  
+    16      16       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       2       2  
+    64      32      16       8  
+    16      16       8       2  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       2       2  
+    64      32      16       8  
+    16      16       8       2  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       2       2  
+    64      32      16       8  
+    16      16       8       4  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       2       2  
+    64      32      16       8  
+    16      16       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       8       4       0  
+    64      32      16       8  
+    32       8       4       0  
+     8       4       4       0  
+
+Computer's turn:
+    16       8       4       0  
+    64      32      16       8  
+    32       8       4       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       8  
+    64      32      16       2  
+    32       8       8       0  
+     8       4       0       0  
+
+Computer's turn:
+    16       8       4       8  
+    64      32      16       2  
+    32       8       8       0  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       8       4       0  
+    64      32      16       0  
+    32       8       8       8  
+     8       4       2       2  
+
+Computer's turn:
+    16       8       4       0  
+    64      32      16       2  
+    32       8       8       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       2  
+    64      32      16       8  
+    32       8       8       2  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       4       2  
+    64      32      16       8  
+    32       8       8       2  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       2  
+    64      32      16       8  
+    32       8       8       4  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       4       2  
+    64      32      16       8  
+    32       8       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       8       4       2  
+    64      32      16       8  
+    32      16       4       0  
+     8       4       4       0  
+
+Computer's turn:
+    16       8       4       2  
+    64      32      16       8  
+    32      16       4       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       2  
+    64      32      16       8  
+    32      16       8       2  
+     8       4       0       0  
+
+Computer's turn:
+    16       8       4       2  
+    64      32      16       8  
+    32      16       8       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       8       4       0  
+    64      32      16       2  
+    32      16       8       8  
+     8       4       2       2  
+
+Computer's turn:
+    16       8       4       2  
+    64      32      16       2  
+    32      16       8       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       4  
+    64      32      16       8  
+    32      16       8       2  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       4       4  
+    64      32      16       8  
+    32      16       8       2  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       4       4  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       2       0  
+
+Computer's turn:
+    16       8       4       4  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16       8       8       0  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       4       0  
+
+Computer's turn:
+    16       8       8       2  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    16       8       8       0  
+    64      32      16       2  
+    32      16       8       8  
+     8       4       4       4  
+
+Computer's turn:
+    16       8       8       2  
+    64      32      16       2  
+    32      16       8       8  
+     8       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16       8       8       4  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       4       0  
+
+Computer's turn:
+    16       8       8       4  
+    64      32      16       8  
+    32      16       8       4  
+     8       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    16      16       4       0  
+    64      32      16       8  
+    32      16       8       4  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4       0  
+    64      32      16       8  
+    32      16       8       4  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4       8  
+    64      32      16       4  
+    32      16       8       2  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4       8  
+    64      32      16       4  
+    32      16       8       2  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4       8  
+    64      32      16       4  
+    32      16       8       4  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4       8  
+    64      32      16       4  
+    32      16       8       4  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4       8  
+    64      32      16       8  
+    32      16       8       2  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4       8  
+    64      32      16       8  
+    32      16       8       2  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       0  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       0  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       2  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       2  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       4  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4      16  
+    64      32      16       4  
+    32      16       8       4  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4      16  
+    64      32      16       8  
+    32      16       8       2  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4      16  
+    64      32      16       8  
+    32      16       8       2  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    16      16       4      16  
+    64      32      16       8  
+    32      16       8       4  
+     8       8       2       0  
+
+Computer's turn:
+    16      16       4      16  
+    64      32      16       8  
+    32      16       8       4  
+     8       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      16       0  
+    64      32      16       8  
+    32      16       8       4  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      16       0  
+    64      32      16       8  
+    32      16       8       4  
+    16       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       8  
+    64      32       8       4  
+    32      16       0       2  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32       8  
+    64      32       8       4  
+    32      16       0       2  
+    16       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       8  
+    64      32       8       4  
+    32      16       0       4  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32       8  
+    64      32       8       4  
+    32      16       0       4  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       8  
+    64      32       8       8  
+    32      16       4       0  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32       8  
+    64      32       8       8  
+    32      16       4       0  
+    16       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32      16  
+    64      32       8       2  
+    32      16       4       0  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32      16  
+    64      32       8       2  
+    32      16       4       2  
+    16       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32      16  
+    64      32       8       4  
+    32      16       4       0  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32      16  
+    64      32       8       4  
+    32      16       4       0  
+    16       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      32       0  
+    64      32       8       0  
+    32      16       4      16  
+    16       4       2       4  
+
+Computer's turn:
+    32       4      32       0  
+    64      32       8       2  
+    32      16       4      16  
+    16       4       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       2  
+    64      32       8      16  
+    32      16       4       4  
+    16       4       2       0  
+
+Computer's turn:
+    32       4      32       2  
+    64      32       8      16  
+    32      16       4       4  
+    16       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      32       2  
+    64      32       8      16  
+    32      16       8       0  
+    16       4       4       0  
+
+Computer's turn:
+    32       4      32       2  
+    64      32       8      16  
+    32      16       8       2  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       2  
+    64      32      16      16  
+    32      16       4       2  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32       2  
+    64      32      16      16  
+    32      16       4       2  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       2  
+    64      32      16      16  
+    32      16       8       2  
+    16       4       0       0  
+
+Computer's turn:
+    32       4      32       2  
+    64      32      16      16  
+    32      16       8       2  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      32       0  
+    64      32      16       2  
+    32      16       8      16  
+    16       4       4       2  
+
+Computer's turn:
+    32       4      32       2  
+    64      32      16       2  
+    32      16       8      16  
+    16       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       4  
+    64      32      16      16  
+    32      16       8       2  
+    16       4       4       0  
+
+Computer's turn:
+    32       4      32       4  
+    64      32      16      16  
+    32      16       8       2  
+    16       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      32       4  
+    64      32      16      16  
+    32      16       8       4  
+    16       4       4       0  
+
+Computer's turn:
+    32       4      32       4  
+    64      32      16      16  
+    32      16       8       4  
+    16       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      32       4  
+    64      32      32       0  
+    32      16       8       4  
+    16       8       2       0  
+
+Computer's turn:
+    32       4      32       4  
+    64      32      32       2  
+    32      16       8       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      32       8       2  
+    32      16       2       4  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32       8       2  
+    32      16       2       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      32       8       2  
+    32      16       4       4  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32       8       2  
+    32      16       4       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      64       4  
+    64      32       8       2  
+    32      16       8       0  
+    16       8       2       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32       8       2  
+    32      16       8       0  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      32      16       4  
+    32      16       2       0  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32      16       4  
+    32      16       2       2  
+    16       8       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       8  
+    64      32      16       2  
+    32      16       2       0  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       8  
+    64      32      16       2  
+    32      16       2       0  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       8  
+    64      32      16       2  
+    32      16       4       0  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       8  
+    64      32      16       2  
+    32      16       4       2  
+    16       8       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       8  
+    64      32      16       4  
+    32      16       4       0  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       8  
+    64      32      16       4  
+    32      16       4       0  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      64       0  
+    64      32      16       0  
+    32      16       4       8  
+    16       8       2       4  
+
+Computer's turn:
+    32       4      64       0  
+    64      32      16       2  
+    32      16       4       8  
+    16       8       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       2  
+    64      32      16       8  
+    32      16       4       4  
+    16       8       2       0  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      16       8  
+    32      16       4       4  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      64       2  
+    64      32      16       8  
+    32      16       8       0  
+    16       8       4       0  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      16       8  
+    32      16       8       2  
+    16       8       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      64       0  
+    64      32      16       2  
+    32      16       8       8  
+    16       8       4       2  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      16       2  
+    32      16       8       8  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      32      16       8  
+    32      16       8       2  
+    16       8       4       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32      16       8  
+    32      16       8       2  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      64       0  
+    64      32      16       4  
+    32      16       8       8  
+    16       8       4       4  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      16       4  
+    32      16       8       8  
+    16       8       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      64       2  
+    64      32      16       4  
+    32      16      16       0  
+    16       8       8       0  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      16       4  
+    32      16      16       4  
+    16       8       8       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       2  
+    64      32      32       8  
+    32      16       8       0  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      32       8  
+    32      16       8       0  
+    16       8       0       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       2  
+    64      32      32       8  
+    32      16       8       4  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      32       8  
+    32      16       8       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      64       0  
+    64      32      32       2  
+    32      16       8       8  
+    16       8       2       4  
+
+Computer's turn:
+    32       4      64       2  
+    64      32      32       2  
+    32      16       8       8  
+    16       8       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      32      32       8  
+    32      16       8       4  
+    16       8       2       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      32      32       8  
+    32      16       8       4  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      64       4  
+    64      64       8       0  
+    32      16       8       4  
+    16       8       4       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      64       8       2  
+    32      16       8       4  
+    16       8       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       4  
+    64      64      16       2  
+    32      16       4       4  
+    16       8       0       0  
+
+Computer's turn:
+    32       4      64       4  
+    64      64      16       2  
+    32      16       4       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4      64       0  
+    64      64      16       4  
+    32      16       4       2  
+    16       8       2       4  
+
+Computer's turn:
+    32       4      64       2  
+    64      64      16       4  
+    32      16       4       2  
+    16       8       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4      64       2  
+   128      16       4       0  
+    32      16       4       2  
+    16       8       2       4  
+
+Computer's turn:
+    32       4      64       2  
+   128      16       4       4  
+    32      16       4       2  
+    16       8       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4      64       2  
+   128      32       8       4  
+    32       8       2       2  
+    16       0       0       4  
+
+Computer's turn:
+    32       4      64       2  
+   128      32       8       4  
+    32       8       2       2  
+    16       2       0       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4       0       2  
+   128      32      64       4  
+    32       8       8       2  
+    16       2       2       4  
+
+Computer's turn:
+    32       4       2       2  
+   128      32      64       4  
+    32       8       8       2  
+    16       2       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       4       4       0  
+   128      32      64       4  
+    32      16       2       0  
+    16       4       4       0  
+
+Computer's turn:
+    32       4       4       0  
+   128      32      64       4  
+    32      16       2       0  
+    16       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4       4       8  
+   128      32      64       0  
+    32      16       2       0  
+    16       4       4       0  
+
+Computer's turn:
+    32       4       4       8  
+   128      32      64       4  
+    32      16       2       0  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       4       4       0  
+   128      32      64       0  
+    32      16       2       8  
+    16       4       4       4  
+
+Computer's turn:
+    32       4       4       0  
+   128      32      64       2  
+    32      16       2       8  
+    16       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       4       4       2  
+   128      32      64       8  
+    32      16       2       4  
+    16       4       4       0  
+
+Computer's turn:
+    32       4       4       2  
+   128      32      64       8  
+    32      16       2       4  
+    16       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       2       0  
+   128      32      64       8  
+    32      16       2       4  
+    16       8       2       0  
+
+Computer's turn:
+    32       8       2       2  
+   128      32      64       8  
+    32      16       2       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       2  
+   128      32      64       8  
+    32      16       4       4  
+    16       8       0       0  
+
+Computer's turn:
+    32       8       2       2  
+   128      32      64       8  
+    32      16       4       4  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       0  
+   128      32      64       8  
+    32      16       8       0  
+    16       8       2       0  
+
+Computer's turn:
+    32       8       4       0  
+   128      32      64       8  
+    32      16       8       0  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   128      32      64       2  
+    32      16       8       0  
+    16       8       2       0  
+
+Computer's turn:
+    32       8       4       8  
+   128      32      64       2  
+    32      16       8       0  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   128      32      64       4  
+    32      16       8       0  
+    16       8       2       0  
+
+Computer's turn:
+    32       8       4       8  
+   128      32      64       4  
+    32      16       8       2  
+    16       8       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       4       0  
+   128      32      64       8  
+    32      16       8       4  
+    16       8       2       2  
+
+Computer's turn:
+    32       8       4       2  
+   128      32      64       8  
+    32      16       8       4  
+    16       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+RIGHT
+    32       8       4       2  
+   128      32      64       8  
+    32      16       8       4  
+     0      16       8       4  
+
+Computer's turn:
+    32       8       4       2  
+   128      32      64       8  
+    32      16       8       4  
+     4      16       8       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   128      32      64       8  
+    32      32      16       8  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   128      32      64       8  
+    32      32      16       8  
+     4       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   128      64      64      16  
+    32       2      16       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   128      64      64      16  
+    32       2      16       0  
+     4       0       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       0       4       0  
+   128       8      64       0  
+    32      64      16       2  
+     4       2       2      16  
+
+Computer's turn:
+    32       0       4       0  
+   128       8      64       2  
+    32      64      16       2  
+     4       2       2      16  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   128      64      64      16  
+    32       2      16       0  
+     4       0       2       0  
+
+Computer's turn:
+    32       8       4       4  
+   128      64      64      16  
+    32       2      16       0  
+     4       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   128      64      64      16  
+    32       4      16       0  
+     4       0       2       0  
+
+Computer's turn:
+    32       8       4       4  
+   128      64      64      16  
+    32       4      16       0  
+     4       0       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   128      64      64      16  
+    32       4      16       2  
+     4       0       2       0  
+
+Computer's turn:
+    32       8       4       4  
+   128      64      64      16  
+    32       4      16       2  
+     4       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       4       0  
+   128      64      64       4  
+    32       4      16      16  
+     4       2       2       2  
+
+Computer's turn:
+    32       8       4       2  
+   128      64      64       4  
+    32       4      16      16  
+     4       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       2  
+   128     128       4       0  
+    32       4      32       0  
+     4       4       2       0  
+
+Computer's turn:
+    32       8       4       2  
+   128     128       4       0  
+    32       4      32       2  
+     4       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       4  
+   128     128      32       0  
+    32       8       2       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       8       4  
+   128     128      32       0  
+    32       8       2       0  
+     4       0       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       4  
+   128     128      32       2  
+    32       8       2       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       8       4  
+   128     128      32       2  
+    32       8       2       2  
+     4       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       4  
+   128     128      32       4  
+    32       8       2       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       8       4  
+   128     128      32       4  
+    32       8       2       2  
+     4       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       8  
+   128     128      32       2  
+    32       8       2       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       8       8  
+   128     128      32       2  
+    32       8       2       0  
+     4       0       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       8  
+   128     128      32       4  
+    32       8       2       0  
+     4       0       0       0  
+
+Computer's turn:
+    32       8       8       8  
+   128     128      32       4  
+    32       8       2       2  
+     4       0       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       0       0       0  
+   128       8       8       8  
+    32     128      32       4  
+     4       8       2       2  
+
+Computer's turn:
+    32       0       0       2  
+   128       8       8       8  
+    32     128      32       4  
+     4       8       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       2  
+   128     128      32       8  
+    32       8       2       4  
+     4       0       0       2  
+
+Computer's turn:
+    32       8       8       2  
+   128     128      32       8  
+    32       8       2       4  
+     4       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       0       2  
+   128     128       8       8  
+    32       8      32       4  
+     4       4       2       2  
+
+Computer's turn:
+    32       8       2       2  
+   128     128       8       8  
+    32       8      32       4  
+     4       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       0  
+   256      16       0       0  
+    32       8      32       4  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16       0       0  
+    32       8      32       4  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      16      32       4  
+    32       8       0       0  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       4  
+    32       8       0       4  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      16      32       8  
+    32       8       0       0  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       8  
+    32       8       0       0  
+     8       4       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      16      32       8  
+    32       8       0       2  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       8  
+    32       8       2       2  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       0       0  
+   256      16       4       2  
+    32       8      32       8  
+     8       4       2       2  
+
+Computer's turn:
+    32       8       0       2  
+   256      16       4       2  
+    32       8      32       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   256      16      32       8  
+    32       8       2       2  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       4  
+   256      16      32       8  
+    32       8       2       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   256      16      32       8  
+    32       8       4       2  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       4  
+   256      16      32       8  
+    32       8       4       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       4       0  
+   256      16      32       4  
+    32       8       4       8  
+     8       4       2       2  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       4  
+    32       8       4       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       2  
+   256      16      32       4  
+    32       8       4       8  
+     8       4       4       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       4  
+    32       8       4       8  
+     8       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      16      32       4  
+    32       8       8       8  
+     8       4       0       2  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       4  
+    32       8       8       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       2  
+   256      16      32       4  
+    32      16       8       0  
+     8       4       4       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      16      32       4  
+    32      16       8       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      32      32       4  
+    32       4       8       2  
+     8       0       4       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      32      32       4  
+    32       4       8       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       2  
+   256      32      32       4  
+    32       8       8       2  
+     8       0       4       0  
+
+Computer's turn:
+    32       8       4       2  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       4       0  
+   256      32      32       2  
+    32       8       8       4  
+     8       2       4       2  
+
+Computer's turn:
+    32       8       4       2  
+   256      32      32       2  
+    32       8       8       4  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4       4  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       0  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       0  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       4  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4       8  
+   256      32      32       4  
+    32       8       8       4  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   256      32      32       8  
+    32       8       8       2  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4       8  
+   256      32      32       8  
+    32       8       8       2  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4      16  
+   256      32      32       4  
+    32       8       8       0  
+     8       2       4       0  
+
+Computer's turn:
+    32       8       4      16  
+   256      32      32       4  
+    32       8       8       2  
+     8       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       4       0  
+   256      32      32      16  
+    32       8       8       4  
+     8       2       4       2  
+
+Computer's turn:
+    32       8       4       2  
+   256      32      32      16  
+    32       8       8       4  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       2  
+   256      64      16       0  
+    32      16       4       0  
+     8       2       4       2  
+
+Computer's turn:
+    32       8       4       2  
+   256      64      16       0  
+    32      16       4       2  
+     8       2       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   256      64      16       2  
+    32      16       8       0  
+     8       2       0       0  
+
+Computer's turn:
+    32       8       4       4  
+   256      64      16       2  
+    32      16       8       4  
+     8       2       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       0       0  
+   256      64       4       4  
+    32      16      16       2  
+     8       2       8       4  
+
+Computer's turn:
+    32       8       2       0  
+   256      64       4       4  
+    32      16      16       2  
+     8       2       8       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       4  
+   256      64       4       2  
+    32      16      16       4  
+     8       2       8       0  
+
+Computer's turn:
+    32       8       2       4  
+   256      64       4       2  
+    32      16      16       4  
+     8       2       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       2       4  
+   256      64       4       2  
+    32      32       4       0  
+     8       2       8       2  
+
+Computer's turn:
+    32       8       2       4  
+   256      64       4       2  
+    32      32       4       2  
+     8       2       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       4  
+   256      64       8       4  
+    32      32       8       2  
+     8       2       0       0  
+
+Computer's turn:
+    32       8       2       4  
+   256      64       8       4  
+    32      32       8       2  
+     8       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       8  
+   256      64      16       2  
+    32      32       4       0  
+     8       2       0       0  
+
+Computer's turn:
+    32       8       2       8  
+   256      64      16       2  
+    32      32       4       0  
+     8       2       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       2       0  
+   256      64      16       0  
+    32      32       4       8  
+     8       2       2       2  
+
+Computer's turn:
+    32       8       2       2  
+   256      64      16       0  
+    32      32       4       8  
+     8       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       2  
+   256      64      16       8  
+    32      32       4       2  
+     8       2       2       0  
+
+Computer's turn:
+    32       8       2       2  
+   256      64      16       8  
+    32      32       4       2  
+     8       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       2       2  
+   256      64      16       8  
+    32      32       4       4  
+     8       2       2       0  
+
+Computer's turn:
+    32       8       2       2  
+   256      64      16       8  
+    32      32       4       4  
+     8       2       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       4       0  
+   256      64      16       8  
+    64       8       0       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       4       0  
+   256      64      16       8  
+    64       8       2       0  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       8  
+   256      64      16       0  
+    64       8       4       0  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       8  
+   256      64      16       4  
+    64       8       4       0  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       0       0  
+   256      64       4       0  
+    64       8      16       8  
+     8       4       4       4  
+
+Computer's turn:
+    32       8       0       4  
+   256      64       4       0  
+    64       8      16       8  
+     8       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       4       4  
+   256      64      16       8  
+    64       8       4       4  
+     8       4       0       0  
+
+Computer's turn:
+    32       8       4       4  
+   256      64      16       8  
+    64       8       4       4  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32       8       8       0  
+   256      64      16       8  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8       0  
+   256      64      16       8  
+    64       8       8       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       8  
+   256      64      16       2  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8       8  
+   256      64      16       2  
+    64       8       8       0  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       8  
+   256      64      16       4  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8       8  
+   256      64      16       4  
+    64       8       8       0  
+     8       4       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8       8  
+   256      64      16       8  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8       8  
+   256      64      16       8  
+    64       8       8       0  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8      16  
+   256      64      16       2  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8      16  
+   256      64      16       2  
+    64       8       8       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32       8       8      16  
+   256      64      16       4  
+    64       8       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32       8       8      16  
+   256      64      16       4  
+    64       8       8       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32       8       8       0  
+   256      64      16      16  
+    64       8       8       4  
+     8       4       2       2  
+
+Computer's turn:
+    32       8       8       2  
+   256      64      16      16  
+    64       8       8       4  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       2       0  
+   256      64      32       0  
+    64      16       4       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       2       0  
+   256      64      32       2  
+    64      16       4       0  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       2       2  
+   256      64      32       0  
+    64      16       8       0  
+     8       4       0       0  
+
+Computer's turn:
+    32      16       2       2  
+   256      64      32       0  
+    64      16       8       2  
+     8       4       0       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       2       4  
+   256      64      32       0  
+    64      16       8       0  
+     8       4       0       0  
+
+Computer's turn:
+    32      16       2       4  
+   256      64      32       0  
+    64      16       8       0  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       2       0  
+   256      64      32       0  
+    64      16       8       0  
+     8       4       2       4  
+
+Computer's turn:
+    32      16       2       0  
+   256      64      32       2  
+    64      16       8       0  
+     8       4       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       2       2  
+   256      64      32       4  
+    64      16       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32      16       2       2  
+   256      64      32       4  
+    64      16       8       4  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       2       2  
+   256      64      32       8  
+    64      16       8       0  
+     8       4       2       0  
+
+Computer's turn:
+    32      16       2       2  
+   256      64      32       8  
+    64      16       8       2  
+     8       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       2       0  
+   256      64      32       2  
+    64      16       8       8  
+     8       4       2       2  
+
+Computer's turn:
+    32      16       2       2  
+   256      64      32       2  
+    64      16       8       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       2       0  
+   256      64      32       4  
+    64      16       8       8  
+     8       4       2       2  
+
+Computer's turn:
+    32      16       2       2  
+   256      64      32       4  
+    64      16       8       8  
+     8       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       0  
+   256      64      32       4  
+    64      16      16       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       0  
+   256      64      32       4  
+    64      16      16       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       4  
+   256      64      32       2  
+    64      16      16       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       4  
+   256      64      32       2  
+    64      16      16       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       4  
+   256      64      32       4  
+    64      16      16       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       4  
+   256      64      32       4  
+    64      16      16       0  
+     8       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       2  
+    64      16      16       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       2  
+    64      16      16       2  
+     8       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       4  
+    64      16      16       0  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       4  
+    64      16      16       0  
+     8       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       4  
+    64      16      16       2  
+     8       4       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       4  
+    64      16      16       2  
+     8       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       0  
+     8       8       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       0  
+     8       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       2  
+     8       8       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       2  
+     8       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       4  
+     8       8       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       4  
+    64      32       2       4  
+     8       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256      64      32       8  
+    64      32       2       2  
+     8       8       4       0  
+
+Computer's turn:
+    32      16       4       8  
+   256      64      32       8  
+    64      32       2       2  
+     8       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4      16  
+   256      64      32       4  
+    64      32       2       0  
+     8       8       4       0  
+
+Computer's turn:
+    32      16       4      16  
+   256      64      32       4  
+    64      32       2       2  
+     8       8       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       4       0  
+   256      64      32      16  
+    64      32       2       4  
+     8       8       4       2  
+
+Computer's turn:
+    32      16       4       2  
+   256      64      32      16  
+    64      32       2       4  
+     8       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       2  
+   256      64      32      16  
+    64      32       2       4  
+    16       4       2       0  
+
+Computer's turn:
+    32      16       4       2  
+   256      64      32      16  
+    64      32       2       4  
+    16       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       2  
+   256      64      32      16  
+    64      32       4       4  
+    16       4       0       2  
+
+Computer's turn:
+    32      16       4       2  
+   256      64      32      16  
+    64      32       4       4  
+    16       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       2  
+   256      64      32      16  
+    64      32       8       0  
+    16       4       4       0  
+
+Computer's turn:
+    32      16       4       2  
+   256      64      32      16  
+    64      32       8       2  
+    16       4       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       4       0  
+   256      64      32       2  
+    64      32       8      16  
+    16       4       4       2  
+
+Computer's turn:
+    32      16       4       2  
+   256      64      32       2  
+    64      32       8      16  
+    16       4       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       4  
+   256      64      32      16  
+    64      32       8       2  
+    16       4       4       0  
+
+Computer's turn:
+    32      16       4       4  
+   256      64      32      16  
+    64      32       8       2  
+    16       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       0  
+   256      64      32      16  
+    64      32       8       2  
+    16       8       4       0  
+
+Computer's turn:
+    32      16       8       0  
+   256      64      32      16  
+    64      32       8       2  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       0  
+    16       8       4       0  
+
+Computer's turn:
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       0  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       2  
+    16       8       4       0  
+
+Computer's turn:
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       2  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       4  
+    16       8       4       0  
+
+Computer's turn:
+    32      16       8      16  
+   256      64      32       4  
+    64      32       8       4  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8      16  
+   256      64      32       8  
+    64      32       8       2  
+    16       8       4       0  
+
+Computer's turn:
+    32      16       8      16  
+   256      64      32       8  
+    64      32       8       2  
+    16       8       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       8       0  
+   256      64      32      16  
+    64      32       8       8  
+    16       8       4       4  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32       8       8  
+    16       8       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       0  
+    16       8       8       0  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       0  
+    16       8       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       2  
+    16       8       8       0  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       2  
+    16       8       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    16       8       8       0  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    16       8       8       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    16      16       2       0  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    16      16       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       0       0  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       2       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       8       0  
+   256      64      32       2  
+    64      32      16      16  
+    32       4       2       4  
+
+Computer's turn:
+    32      16       8       2  
+   256      64      32       2  
+    64      32      16      16  
+    32       4       2       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       2       0  
+
+Computer's turn:
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       2       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       4  
+    32       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       8  
+    32       4       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       8  
+    32       4       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+RIGHT
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       8  
+     0      32       4       8  
+
+Computer's turn:
+    32      16       8       4  
+   256      64      32      16  
+    64      32      16       8  
+     2      32       4       8  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256      64      32      16  
+    64      64      16      16  
+     2       0       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256      64      32      16  
+    64      64      16      16  
+     2       0       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256     128      32      32  
+    64       0      16       2  
+     2       0       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256     128      32      32  
+    64       0      16       2  
+     2       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256     128      32      32  
+    64       2      16       2  
+     2       0       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256     128      32      32  
+    64       2      16       2  
+     2       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256     128      32      32  
+    64       4      16       2  
+     2       0       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256     128      32      32  
+    64       4      16       2  
+     2       0       4       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       8       4  
+   256     128      32      32  
+    64       4      16       4  
+     2       0       4       0  
+
+Computer's turn:
+    32      16       8       4  
+   256     128      32      32  
+    64       4      16       4  
+     2       2       4       0  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       8       0  
+   256     128      32       4  
+    64       4      16      32  
+     2       2       4       4  
+
+Computer's turn:
+    32      16       8       2  
+   256     128      32       4  
+    64       4      16      32  
+     2       2       4       4  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       8       2  
+   256     128      32       4  
+    64       4      16      32  
+     4       8       0       0  
+
+Computer's turn:
+    32      16       8       2  
+   256     128      32       4  
+    64       4      16      32  
+     4       8       0       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+DOWN
+    32      16       0       2  
+   256     128       8       4  
+    64       4      32      32  
+     4       8      16       2  
+
+Computer's turn:
+    32      16       4       2  
+   256     128       8       4  
+    64       4      32      32  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       2  
+   256     128       8       4  
+    64       4      64       0  
+     4       8      16       2  
+
+Computer's turn:
+    32      16       4       2  
+   256     128       8       4  
+    64       4      64       2  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       2  
+   256     128       8       4  
+    64       4      64       4  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       2  
+   256     128       8       4  
+    64       4      64       4  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       2  
+   256     128       8       8  
+    64       4      64       2  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       2  
+   256     128       8       8  
+    64       4      64       2  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       2  
+   256     128       8       8  
+    64       4      64       4  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       2  
+   256     128       8       8  
+    64       4      64       4  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+LEFT
+    32      16       4       2  
+   256     128      16       0  
+    64       4      64       4  
+     4       8      16       2  
+
+Computer's turn:
+    32      16       4       2  
+   256     128      16       2  
+    64       4      64       4  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       4  
+   256     128      16       4  
+    64       4      64       2  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       4  
+   256     128      16       4  
+    64       4      64       2  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256     128      16       4  
+    64       4      64       0  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       8  
+   256     128      16       4  
+    64       4      64       0  
+     4       8      16       2  
+
+Player's Turn:here
+here
+here
+here
+here
+here
+here
+here
+here
+here
+UP
+    32      16       4       8  
+   256     128      16       4  
+    64       4      64       2  
+     4       8      16       0  
+
+Computer's turn:
+    32      16       4       8  
+   256     128      16       4  
+    64       4      64       2  
+     4       8      16       4  
+
+256
