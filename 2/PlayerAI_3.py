@@ -8,6 +8,7 @@ SPAWNED_TILES_VALUES = [2,4]
 TIME_BUFFER = 0.05 # number of seconds remaining at which we end the depth-first traversal
 
 class PlayerAI(BaseAI):
+	nodes_expanded = 0 
 
 	# is this grid a terminal state?
 	def isTerminalState(self, grid):
@@ -25,6 +26,7 @@ class PlayerAI(BaseAI):
 	# maximize - try and get to 2048 by moving up, left, down, right
 	# returns: (move, utility)
 	def maximize(self, grid, alpha, beta, depth, time_start):
+		self.nodes_expanded += 1
 
 		if self.isTerminalState(grid) or depth == 4:
 			return self.generateHeuristic(grid)
@@ -50,6 +52,7 @@ class PlayerAI(BaseAI):
 	# minimize - try to minimize board score by placing new tiles
 	# returns: (move, utility)
 	def minimize(self, grid, alpha, beta, depth, time_start):
+		self.nodes_expanded += 1
 
 		if self.isTerminalState(grid) or depth == 4:
 			return self.generateHeuristic(grid)
@@ -77,6 +80,7 @@ class PlayerAI(BaseAI):
 		time_start = time.clock()
 		(move, utility) = self.maximize(grid, NEG_INF, POS_INF, 0, time_start)
 		time_elapsed = time.clock() - time_start
+		print("nodes expanded: " + self.nodes_expanded)
 		return move
 
 		# moves = grid.getAvailableMoves()
