@@ -1,6 +1,6 @@
 from random import randint
 from BaseAI_3 import BaseAI
-import time
+import time, math
 
 NEG_INF = float("-inf")
 POS_INF = float("inf")
@@ -9,6 +9,7 @@ TIME_BUFFER = 0.08 # number of seconds remaining at which we end the depth-first
 
 class PlayerAI(BaseAI):
 	nodes_expanded = 0 
+	MAX_DEPTH = 4
 
 	# is this grid a terminal state?
 	def isTerminalState(self, grid):
@@ -20,19 +21,68 @@ class PlayerAI(BaseAI):
 		time_remaining = 0.25 - time_elapsed
 		return time_remaining < TIME_BUFFER
 
+	def calculateMono(self, currNumber, nextNumber):
+		dMono = 0
+		if currNumber < nextNumber: dMono = 1 
+		if currNumber > nextNumber: dMono = -1
+		return dMono
+
+	def calculateBumpiness(self, currNumber, nextNumber):
+		currNumberVal = math.log(currNumber, 2) if currNumber != 0 else 0 
+		nextNumberVal = math.log(nextNumber, 2) if nextNumber != 0 else 0 
+		return abs(currNumberVal - nextNumberVal)
+
 	def generateHeuristic(self, grid):
+		availableCells = len(grid.getAvailableCells())
+		availableCellsWeight = 1
+		monoWeight = 1
+		smoothWeight = 1
 
-		# TO DO: monotonicity
-		# TO DO: smoothness 
+		# coordinate system: x is the row-wise index, 0 is the left-most column
+		# monotonicity: increases in row and column-wise directions
+		# smoothness: keeps neighboring cells low
 
-		return (None, len(grid.getAvailableCells()))
+		# iterate over the columns
+		colWiseMono = 0 
+		colWiseBumpiness = 0		
+		(y_idx, x_idx) = (0,0)
+		while y_idx < 4:
+			while x_idx < 3:
+				currNumber = grid.map[x_idx][y_idx] 
+				nextNumber = grid.map[x_idx + 1][y_idx]
+				colWiseMono += self.calculateMono(currNumber, nextNumber) 
+				colWiseBumpiness += self.calculateBumpiness(currNumber, nextNumber)			
+				x_idx += 1
+			x_idx = 0 
+			y_idx += 1
+		
+		# iterate over the rows
+		rowWiseMono = 0
+		rowWiseBumpiness = 0
+		(y_idx, x_idx) = (0,0)
+		while x_idx < 4:
+			while y_idx < 3:
+				currNumber = grid.map[x_idx][y_idx] 
+				nextNumber = grid.map[x_idx][y_idx+1]
+				rowWiseMono += self.calculateMono(currNumber, nextNumber) 
+				rowWiseBumpiness += self.calculateBumpiness(currNumber, nextNumber)		
+				y_idx += 1
+			y_idx = 0
+			x_idx += 1
+
+		mono = abs(colWiseMono) + abs(rowWiseMono)
+		smoothness = 0 - rowWiseBumpiness - colWiseBumpiness # calculate smoothness by inverting bumpiness
+
+		heuristic_value = (availableCells * availableCellsWeight) + (mono * monoWeight) + (smoothness * smoothWeight)
+
+		return (None, heuristic_value)
 
 	# maximize - try and get to 2048 by moving up, left, down, right
 	# returns: (move, utility)
 	def maximize(self, grid, alpha, beta, depth, time_start):
 		self.nodes_expanded += 1
 
-		if self.isTerminalState(grid) or depth == 4:
+		if self.isTerminalState(grid) or depth == self.MAX_DEPTH:
 			return self.generateHeuristic(grid)
 
 		(maxMove, maxUtility) = (None, NEG_INF)
@@ -58,7 +108,7 @@ class PlayerAI(BaseAI):
 	def minimize(self, grid, alpha, beta, depth, time_start):
 		self.nodes_expanded += 1
 
-		if self.isTerminalState(grid) or depth == 4:
+		if self.isTerminalState(grid) or depth == self.MAX_DEPTH:
 			return self.generateHeuristic(grid)
 
 		(minMove, minUtility) = (None, POS_INF)
@@ -83,7 +133,7 @@ class PlayerAI(BaseAI):
 	def getMove(self, grid):
 		time_start = time.clock()
 		(move, utility) = self.maximize(grid, NEG_INF, POS_INF, 0, time_start)
-		#print("Nodes expanded: " + str(self.nodes_expanded))
+		# print("Nodes expanded: " + str(self.nodes_expanded))
 		#self.nodes_expanded = 0 
 		return move
 
