@@ -5,11 +5,11 @@ import time, math
 NEG_INF = float("-inf")
 POS_INF = float("inf")
 SPAWNED_TILES_VALUES = [2,4]
-TIME_BUFFER = 0.08 # number of seconds remaining at which we end the depth-first traversal
+TIME_BUFFER = 0.02 # number of seconds remaining at which we end the depth-first traversal
 
 class PlayerAI(BaseAI):
 	nodes_expanded = 0 
-	MAX_DEPTH = 4
+	MAX_DEPTH = 3
 
 	# is this grid a terminal state?
 	def isTerminalState(self, grid):
@@ -17,9 +17,12 @@ class PlayerAI(BaseAI):
 
 	# are we in the buffer time?
 	def inBufferTime(self, start_time):
+		# print("checking in buffer time")
 		time_elapsed = time.clock() - start_time
 		time_remaining = 0.25 - time_elapsed
-		return time_remaining < TIME_BUFFER
+		inBufferTime = time_remaining < TIME_BUFFER
+		# if inBufferTime: print ("terminating early...")
+		return inBufferTime
 
 	def calculateMono(self, currNumber, nextNumber):
 		dMono = 0
@@ -32,27 +35,71 @@ class PlayerAI(BaseAI):
 		nextNumberVal = math.log(nextNumber, 2) if nextNumber != 0 else 0 
 		return abs(currNumberVal - nextNumberVal)
 
-	def generateHeuristic(self, grid):
-		availableCells = len(grid.getAvailableCells())
-		availableCellsWeight = 1
+	def calculateLargeNumberIncentive(self, isEdge, currNumber):
+		if isEdge and currNumber >= 128:
+			return math.log(currNumber, 2)
+		else: 
+			return 0
+			
+	def generateHeuristic(self, grid, shouldPrint=False):
+		availableCellsWeight = 3
 		monoWeight = 1
 		smoothWeight = 1
+		largeEdgeWeight = 1
+		cellStarvationPenaltyWeight = 1
 
 		# coordinate system: x is the row-wise index, 0 is the left-most column
 		# monotonicity: increases in row and column-wise directions
-		# smoothness: keeps neighboring cells low
+		# smoothness: keeps neighboring cells similar, to increase merge chances
+		# largeEdge: keeps large numbers on the edges, to decrease chance of orphaned tiles
+		# cellStarvationPenalty: severely penalize cases where there are few cells remaining
+		availableCells = len(grid.getAvailableCells())
+		largeEdgeIncentive = 0		
+
+		# cell starvation penalty
+		cellStarvationPenalty = 0
+		if (availableCells < 4):
+			cellStarvationPenaltyConstant = 20
+			cellStarvationPenalty = 1/(availableCells+1) * cellStarvationPenaltyConstant
 
 		# iterate over the columns
 		colWiseMono = 0 
-		colWiseBumpiness = 0		
+		colWiseBumpiness = 0
 		(y_idx, x_idx) = (0,0)
 		while y_idx < 4:
-			while x_idx < 3:
+			thisColMono = 0 
+			hasSeenIncrease = False
+			hasSeenDecrease = False
+			isEdge = True if y_idx == 0 or y_idx == 3 else False
+
+			while x_idx < 4:
 				currNumber = grid.map[x_idx][y_idx] 
+
+				# large numbers on edges
+				largeEdgeIncentive += self.calculateLargeNumberIncentive(isEdge, currNumber)
+				
+				# the metrics after this compare with the next number
+				# if we're on the last number, stop here
+				if x_idx == 3: break
 				nextNumber = grid.map[x_idx + 1][y_idx]
-				colWiseMono += self.calculateMono(currNumber, nextNumber) 
+				
+				# calculate monotonicity	
+				dMono = self.calculateMono(currNumber, nextNumber)
+				if dMono == 1: hasSeenIncrease = True
+				if dMono == -1: hasSeenDecrease == True
+				thisColMono += dMono
+
+				# calculate smoothness
 				colWiseBumpiness += self.calculateBumpiness(currNumber, nextNumber)			
+
 				x_idx += 1
+
+			colWiseMono += thisColMono
+			# if the row doesn't have any peaks, incentivize 
+			if not (hasSeenIncrease and hasSeenDecrease):
+				if colWiseMono > 0: colWiseMono += 3
+				if colWiseMono < 0: colWiseMono -= 3
+
 			x_idx = 0 
 			y_idx += 1
 		
@@ -61,19 +108,54 @@ class PlayerAI(BaseAI):
 		rowWiseBumpiness = 0
 		(y_idx, x_idx) = (0,0)
 		while x_idx < 4:
-			while y_idx < 3:
+			thisRowMono = 0
+			hasSeenIncrease = False
+			hasSeenDecrease = False
+			isEdge = True if x_idx == 0 or x_idx == 3 else False
+
+			while y_idx < 4:
 				currNumber = grid.map[x_idx][y_idx] 
+
+				# large numbers on edges
+				largeEdgeIncentive += self.calculateLargeNumberIncentive(isEdge, currNumber)
+
+				# the metrics after this compare with the next number
+				# if we're on the last number, stop here
+				if y_idx == 3: break 
 				nextNumber = grid.map[x_idx][y_idx+1]
-				rowWiseMono += self.calculateMono(currNumber, nextNumber) 
+
+				# calculate monotonicity
+				dMono = self.calculateMono(currNumber, nextNumber)
+				if dMono == 1: hasSeenIncrease = True
+				if dMono == -1: hasSeenDecrease == True
+				thisRowMono += dMono 
+
+				# calculate smoothness
 				rowWiseBumpiness += self.calculateBumpiness(currNumber, nextNumber)		
+				
 				y_idx += 1
+
+			# finish calculating monotonicity, and further incentivize completely monotone rows
+			# TO DO: even further incentivize monotone rows with large numbers
+			rowWiseMono += thisRowMono
+			if not (hasSeenIncrease and hasSeenDecrease):
+				if rowWiseMono > 0: rowWiseMono += 3
+				if rowWiseMono < 0: rowWiseMono -= 3
+
 			y_idx = 0
 			x_idx += 1
 
 		mono = abs(colWiseMono) + abs(rowWiseMono)
 		smoothness = 0 - rowWiseBumpiness - colWiseBumpiness # calculate smoothness by inverting bumpiness
 
-		heuristic_value = (availableCells * availableCellsWeight) + (mono * monoWeight) + (smoothness * smoothWeight)
+		# if shouldPrint:
+		# 	print("\n")
+		# 	print("availableCells: ", availableCells)
+		# 	print("monotonicity: ", mono)
+		# 	print("smoothness: ", smoothness)
+		# 	print("large edge weight: ", largeEdgeIncentive)
+
+		heuristic_value = (availableCells * availableCellsWeight) + (mono * monoWeight) + (smoothness * smoothWeight) + (largeEdgeWeight * largeEdgeIncentive) - (cellStarvationPenalty * cellStarvationPenaltyWeight)
 
 		return (None, heuristic_value)
 
@@ -127,6 +209,9 @@ class PlayerAI(BaseAI):
 
 				if (minUtility < beta):
 					beta = minUtility
+
+			if self.inBufferTime(time_start):
+				break
 
 		return (None, minUtility)
 	
