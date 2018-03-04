@@ -218,8 +218,8 @@ class PlayerAI(BaseAI):
 	def getMove(self, grid):
 		time_start = time.clock()
 		(move, utility) = self.maximize(grid, NEG_INF, POS_INF, 0, time_start)
-		# print("Nodes expanded: " + str(self.nodes_expanded))
-		#self.nodes_expanded = 0 
+		print("Nodes expanded: " + str(self.nodes_expanded))
+		self.nodes_expanded = 0 
 		return move
 
 		# moves = grid.getAvailableMoves()
